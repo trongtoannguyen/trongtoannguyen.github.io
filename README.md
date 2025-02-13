@@ -2,25 +2,7 @@
 <h3 style="text-align:center">A passionate new grad software engineer</h3>
 
 <div style="text-align:center">
-
-```mermaid
----
-title: let's make a journey
----
-gitGraph
-    commit id: "Start"
-    commit id: "Go!"
-    commit id: "Break"
-
-    branch develop
-    checkout develop
-    commit id: "Go!!"
-
-    checkout main
-
-    merge develop id: "Success"
-```
-
+    <img src="./assets/makeajourney.png" alt="let's make a journey"/>
 </div>
 
 > <q>Work your plan, build, and be ***consistent***. You will be fine.</q>
@@ -43,7 +25,6 @@ gitGraph
 <!-- ## Experience -->
 
 <!-- ### Projects -->
-
 
 ## Contact me
 
