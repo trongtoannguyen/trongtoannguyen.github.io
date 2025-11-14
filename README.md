@@ -28,9 +28,9 @@
 
 ## Contact me
 
-- [Linkedin](https://www.linkedin.com/in/trong-toan-nguyen-24583024a/)
+- [linkedin.com](https://www.linkedin.com/in/trong-toan-nguyen-24583024a/)
 
-- [Email](mailto:paul.toannguyen@icloud.com)
+- [email: trongtoan1609ht@gmail.com](mailto:trongtoan1609ht@gmail.com)
 
 ### 🌐 Website
 
