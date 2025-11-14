@@ -12,7 +12,6 @@
 
 - My clear **goal**: Software engineer.
 - I love to discover technology. Working in Microsoft and Google is my dream job.
-- Would to thank Satoshi, who brings technology to me.
 - I’m learning so hard on **frontend** and  **backend**, include data visualization.
 - I am building this [page](http://trongtoannguyen.me) to show my knowledge about technology.
 
@@ -28,10 +27,6 @@
 
 ## Contact me
 
-- [linkedin.com](https://www.linkedin.com/in/trong-toan-nguyen-24583024a/)
+- [Linkedin.com](https://www.linkedin.com/in/trong-toan-nguyen-24583024a/)
 
-- [email: trongtoan1609ht@gmail.com](mailto:trongtoan1609ht@gmail.com)
-
-### 🌐 Website
-
-I have a personal website, you can visit at [trongtoannguyen.me](http://trongtoannguyen.me).
+- [Email: trongtoan1609ht@gmail.com](mailto:trongtoan1609ht@gmail.com)
